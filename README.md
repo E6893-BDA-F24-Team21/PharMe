@@ -3,7 +3,7 @@
 ### **EECS E6893 Big Data Analytics**  
 **Professor:** Ching-Yung Lin  
 **Team 21:** Dan Harvey dyh2111@columbia.edu, Ishraq Khan imk2133@columbia.edu , Berk Yilmaz by2385@columbia.edu
-
+youtube link : https://www.youtube.com/watch?v=JE6LPMlDUJM&list=LL&index=2&t=2s
 ---
 
 ## **Project Overview**  
